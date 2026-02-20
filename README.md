@@ -1,9 +1,8 @@
 # ⚡ Electric Vehicle Market Analysis
-### Power BI Interactive Dashboard
 
 ## 📷 Dashboard Preview
 
-![EV Dashboard Overview](images/ev-dashboard-overview.png)
+![EV Dashboard Overview](Dashboard.png)
 
 ## 📌 Project Overview
 
